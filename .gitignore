@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+out/
+target/
+
+# macOS Finder metadata
+.DS_Store
+
+# Java build directories
+bin/
+build/
+
+# Maven
+.mv/
